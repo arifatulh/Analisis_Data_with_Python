@@ -10,4 +10,4 @@ conda activate main-ds
 
 pip install streamlit
 
-streamlit run dashboard.py
+streamlit run dashboard1.py
